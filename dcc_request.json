@@ -1,0 +1,21 @@
+{
+    "attributes": [
+        {
+            "name": "name",
+            "value": "Andre",
+            "mask": "37fed547a0286d83aa159331539a1e777295a6e41d71e38c49008cee578607d8"
+        },
+        {
+            "name": "surname",
+            "value": "Zuquete",
+            "mask": "0747d5845495f3a58847359afb4207c95affe826de4d04c82bb37f9de5fe8fe9"
+        },
+        {
+            "name": "country",
+            "value": "PT",
+            "mask": "089871121ffcaa54cccc57ae2cab4c5318925e69e53ec8f99bc4001dc7537144"
+        }
+    ],
+    "digest_function": "SHA-256",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArNTzZ2wv4nweEy4z4pN+\nzmaX17v3085/BbxSo7iv1NBHDOSGdEeRWwJUIIHQexZ7gnVVEoXo/7DieNJ8CeT/\nde6rQAu27W+r1Ui85q7DQTJuRMx6qEeg+2S1gIKf8YxzIccBOlMCK9kQiXM1tkD/\nSDz7inbpC8otXH4nPlQ7f1qQUdOcWvdbX/tVKoj1ijl7kD+q3+k/wGF3iIUor/4d\nPmrAPMKbatOXX1KaaCsa6yCzJsE6dMXiWAROdM+cfjew4aKQl1CEsDBsPg/ny/QW\nCVR+YV0xUbgLSkRg3i7XTTUMKMc9ffyn5TMP+xS/Y6v7c0ew7hM38w9ypBaEjfU6\nCwIDAQAB\n-----END PUBLIC KEY-----\n"
+}

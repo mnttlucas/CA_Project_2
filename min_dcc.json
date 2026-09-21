@@ -1,0 +1,42 @@
+{
+    "original_commitments": [
+        {
+            "name": "3d55bcf9d8ce28d5b1413dba58c3ffbb3a10bbc5da1bd935bb7000e59567c0cd"
+        },
+        {
+            "surname": "b64b625f3a9e7aa503e20e38d7625c91235a8fc36d3030d15918946987cad153"
+        },
+        {
+            "country": "2f0b5f99779103d12449468636c8a4ae4fb75854a928414ca6b8eb6ab7300fd6"
+        }
+    ],
+    "digest_function": "SHA-256",
+    "disclosed_attributes": [
+        {
+            "name": "name",
+            "value_and_mask": [
+                "Andre",
+                "37fed547a0286d83aa159331539a1e777295a6e41d71e38c49008cee578607d8"
+            ]
+        },
+        {
+            "name": "country",
+            "value_and_mask": [
+                "PT",
+                "089871121ffcaa54cccc57ae2cab4c5318925e69e53ec8f99bc4001dc7537144"
+            ]
+        }
+    ],
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArNTzZ2wv4nweEy4z4pN+\nzmaX17v3085/BbxSo7iv1NBHDOSGdEeRWwJUIIHQexZ7gnVVEoXo/7DieNJ8CeT/\nde6rQAu27W+r1Ui85q7DQTJuRMx6qEeg+2S1gIKf8YxzIccBOlMCK9kQiXM1tkD/\nSDz7inbpC8otXH4nPlQ7f1qQUdOcWvdbX/tVKoj1ijl7kD+q3+k/wGF3iIUor/4d\nPmrAPMKbatOXX1KaaCsa6yCzJsE6dMXiWAROdM+cfjew4aKQl1CEsDBsPg/ny/QW\nCVR+YV0xUbgLSkRg3i7XTTUMKMc9ffyn5TMP+xS/Y6v7c0ew7hM38w9ypBaEjfU6\nCwIDAQAB\n-----END PUBLIC KEY-----\n",
+    "issuer_signature": {
+        "value": "01cb80051becff051e279a5ac82cef5e195c293c20b832b04e16d358bdfb75f74beaf6dea060dc0363a9ac55a3b08ab3f05eefc9b9255a81bcf2da4e92365d171054940799be5d4bdfc7554c593194cded96c20294afb451f6e6485c41b307469f300ddb0ced44ed1de4fee64086462d03822d7e508c397f331a660c6ff552b817e9ff6abbc7f6e57f0f07f8c75cb314b780c197644d6e3ed8c7fe1fb84881dc25b1584989ac6bd68a8886021592cfc95be60c837fd5712b01ab2cf27a211c93a1c55be82cf62f4bcb1ecc1e029c5b2532e21c03384e5fa3c2ac986b86016ffa09974a39a0302dcf4fa288a9826b6dfe3dadd1ad321cadf45dcb0a26b9c21cfb",
+        "timestamp": 1736935995.4015353,
+        "algorithm": "RSA-PSS-SHA256",
+        "certificate": "-----BEGIN CERTIFICATE-----\nMIIDjTCCAnWgAwIBAgIUCqhrYpJpRDGWNx03lRXas986iRowDQYJKoZIhvcNAQEL\nBQAwdjELMAkGA1UEBhMCUFQxDzANBgNVBAgMBkxpc2JvbjEPMA0GA1UEBwwGTGlz\nYm9uMRwwGgYDVQQKDBNJc3N1ZXIgT3JnYW5pemF0aW9uMScwJQYDVQQDDB5Jc3N1\nZXIgU2VsZi1TaWduZWQgQ2VydGlmaWNhdGUwHhcNMjQxMjI3MTMyNjM4WhcNMjUx\nMjI3MTMyNjM4WjB2MQswCQYDVQQGEwJQVDEPMA0GA1UECAwGTGlzYm9uMQ8wDQYD\nVQQHDAZMaXNib24xHDAaBgNVBAoME0lzc3VlciBPcmdhbml6YXRpb24xJzAlBgNV\nBAMMHklzc3VlciBTZWxmLVNpZ25lZCBDZXJ0aWZpY2F0ZTCCASIwDQYJKoZIhvcN\nAQEBBQADggEPADCCAQoCggEBAJ3EXPUrAfpE1wHF8uc5l+IAyD+qBQ81CY3sAVKn\nBISB2UGHTUvSBMVq5J3TFL6/FLfRVDenKyf6wEiUT/cu2PUVVrWZWzXtJPUpenG7\nhavw0ByKEJwHeCgPF2R3YtAFkQ4uetfuxUK+dk1+L7MmQ5SHpGYS9odEFnv8D3MF\nypgB2W3k+gMlZG6Xb3/XgrMbzuiCJb+w2fNqwemdTlvhTLVSSMbzFfdDY4kYimfn\ntHG7+cjwJc1iEjPtlK/b9v1y5FDDWX03T9jX35SLtYNp+sZesHwxqPvVk+dxzw18\nzPzc96UjXsad7VKNSME80GtNHCrXH8oUOQni4QujHrVQbI8CAwEAAaMTMBEwDwYD\nVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAP8VrdfFRXoW8omdypD9n\nEEARC8iYESPFL8DUcikuFJtk6OJ9WMOxPhLUke+6QBPYdJ2ZunNl/0BBRagBHDTp\n7i4GygkZwYw/wVntNUiAGXvaPcKQDqw3oQq2zbMuLcLCLAxyfRMq2bTClxMeLG1n\nrmwWAPwYAjhJ65Cq40EhKNjG26ip6fNnUH4an2DpuGUyYbpEDnuDqayTHn9RguSe\nuKvAGYXVcZ8TelpEZksrt3RJgQXrlP4tO9lHceawbF+SZTBeSGqNEvcRp3ZgQV4k\nOafJ2MMzfP97RM+l31u+dlKKBczxAy3/Gb4X38koglI4iV33TeokMxwjeyNlkrUl\n9w==\n-----END CERTIFICATE-----\n"
+    },
+    "producer_signature": {
+        "value": "3ae1e972509f93081635840266605fc5263c97c372a9037f45b221e7da298124c1110fc1be29b3af495c7f3584f5ea20833308e49143906608ce26a9dbbdd022fc6440adf598fce887bf8596e879f40e80438844ccaf7a7a8f148bc30f673b2d3fa0efd5b5e3f3bb27999d008be41c4bdbe68ab214b299d76ba949daa67e005a8f1834ded42875600a822078d621ad1646bde2958047ca6d89b3147162cadee5a2494c98bbd67770c71d2cb405c35fbf34acac01d213be9d144c5846be63f45dbd6e237b779435dd68e6e5de5c1edea1fb013dd09761485cfc1e5fc25b08889e2c66993354d90844d860d26df81da5e5aed68cd3efcea246c6c72a894cb3e902",
+        "timestamp": 1736936049.2182562,
+        "algorithm": "RSA-PSS-SHA256"
+    }
+}
